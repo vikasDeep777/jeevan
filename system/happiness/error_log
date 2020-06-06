@@ -1,0 +1,4 @@
+[17-Sep-2019 09:53:29 Etc/GMT] PHP Warning:  session_write_close(): Cannot call session save handler in a recursive manner in Unknown on line 0
+[17-Sep-2019 09:53:29 Etc/GMT] PHP Warning:  session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /tmp) in Unknown on line 0
+[21-Sep-2019 12:11:03 Etc/GMT] PHP Warning:  session_write_close(): Cannot call session save handler in a recursive manner in Unknown on line 0
+[21-Sep-2019 12:11:03 Etc/GMT] PHP Warning:  session_write_close(): Failed to write session data using user defined save handler. (session.save_path: /tmp) in Unknown on line 0

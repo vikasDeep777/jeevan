@@ -1,0 +1,5 @@
+[04-Aug-2019 13:40:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function item() on null in /home/amazingm/public_html/ci/application/libraries/REST_Controller.php:630
+Stack trace:
+#0 [internal function]: Restserver\Libraries\REST_Controller->__destruct()
+#1 {main}
+  thrown in /home/amazingm/public_html/ci/application/libraries/REST_Controller.php on line 630
